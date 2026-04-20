@@ -11,6 +11,7 @@ from pathlib import Path
 
 from agents.orchestrator import OrchestratorAgent
 from utils.display import print_banner, print_summary
+from utils.env_loader import load_dotenv
 from utils.logger import setup_logger
 
 logger = setup_logger("main")
@@ -34,6 +35,7 @@ def parse_args() -> argparse.Namespace:
 
 
 async def run() -> int:
+    load_dotenv()
     args = parse_args()
     manifest_path = Path(args.manifest)
 

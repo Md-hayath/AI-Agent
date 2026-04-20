@@ -4,3 +4,9 @@
 2026-04-20 23:09:24,890 | INFO | orchestrator | Running task [cli_setup] Node.js Setup by CLI
 2026-04-20 23:09:24,890 | INFO | orchestrator | Running task [copy_files] Copy Runtime Template File
 2026-04-20 23:09:24,890 | INFO | orchestrator | Running task [system_config] System Configuration Setup
+2026-04-20 23:20:01,989 | INFO | orchestrator | Loaded 5 task(s) from config\software_manifest.json
+2026-04-20 23:20:01,989 | INFO | orchestrator | Running task [click_install] Docker Desktop (Click + Install)
+2026-04-20 23:20:01,989 | INFO | orchestrator | Running task [cli_install] Git Installation by CLI
+2026-04-20 23:20:01,989 | INFO | orchestrator | Running task [cli_setup] Node.js Setup by CLI
+2026-04-20 23:20:01,989 | INFO | orchestrator | Running task [copy_files] Copy Runtime Template File
+2026-04-20 23:20:01,989 | INFO | orchestrator | Running task [system_config] System Configuration Setup

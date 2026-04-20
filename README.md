@@ -1,6 +1,6 @@
 # AI-Agent
 
-Complete copy-paste project for an AI setup agent that executes 5 task types:
+An AI setup agent that executes 5 task types:
 
 1. Click + install software (example: Docker Desktop)
 2. CLI software installation (example: Git)
@@ -65,7 +65,7 @@ python main.py
 python main.py --execute
 ```
 
-## Customize for Your 5 Software
+## Customization for your 5 Software
 
 Edit only `config/software_manifest.json`:
 
