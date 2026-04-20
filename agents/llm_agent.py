@@ -1,4 +1,4 @@
-"""LLM helper for setup suggestions and failure explanations."""
+"""LLM helper for setup suggestions and failure explanations"""
 
 import os
 
