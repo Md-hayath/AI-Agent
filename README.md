@@ -65,7 +65,7 @@ python main.py
 python main.py --execute
 ```
 
-## Customization for your 5 Software
+## Customizattion for  5 Software
 
 Edit only `config/software_manifest.json`:
 
